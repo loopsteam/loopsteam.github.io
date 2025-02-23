@@ -1,22 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Development on Conner's Blog</title><link>https://example.org/tags/development/</link><description>Recent content in Development on Conner's Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/development/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started with Hugo</title><link>https://example.org/posts/hugoisforlovers/</link><pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate><guid>https://example.org/posts/hugoisforlovers/</guid><description>&lt;h2 id="step-1-install-hugo">
- Step 1. Install Hugo
- &lt;a class="anchor" href="#step-1-install-hugo">#&lt;/a>
-&lt;/h2>
-&lt;p>Go to &lt;a href="https://github.com/spf13/hugo/releases">Hugo releases&lt;/a> and download the
-appropriate version for your OS and architecture.&lt;/p>
-&lt;p>Save it somewhere specific as we will be using it in the next step.&lt;/p>
-&lt;p>More complete instructions are available at &lt;a href="https://gohugo.io/getting-started/installing/">Install Hugo&lt;/a>&lt;/p>
-&lt;h2 id="step-2-build-the-docs">
- Step 2. Build the Docs
- &lt;a class="anchor" href="#step-2-build-the-docs">#&lt;/a>
-&lt;/h2>
-&lt;p>Hugo has its own example site which happens to also be the documentation site
-you are reading right now.&lt;/p>
-&lt;p>Follow the following steps:&lt;/p></description></item><item><title>(Hu)go Template Primer</title><link>https://example.org/posts/goisforlovers/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://example.org/posts/goisforlovers/</guid><description>&lt;p>Hugo uses the excellent &lt;a href="https://golang.org/">Go&lt;/a> &lt;a href="https://golang.org/pkg/html/template/">html/template&lt;/a> library for
-its template engine. It is an extremely lightweight engine that provides a very
-small amount of logic. In our experience that it is just the right amount of
-logic to be able to create a good static website. If you have used other
-template systems from different languages or frameworks you will find a lot of
-similarities in Go templates.&lt;/p>
-&lt;p>This document is a brief primer on using Go templates. The &lt;a href="https://golang.org/pkg/html/template/">Go docs&lt;/a>
-provide more details.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Development on Conner's Blog</title><link>https://loopsteam.github.io/tags/development/</link><description>Recent content in Development on Conner's Blog</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Sun, 23 Feb 2025 05:18:38 +0800</lastBuildDate><atom:link href="https://loopsteam.github.io/tags/development/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started with Hugo</title><link>https://loopsteam.github.io/posts/hugoisforlovers/</link><pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate><guid>https://loopsteam.github.io/posts/hugoisforlovers/</guid><description>Step 1. Install Hugo # Go to Hugo releases and download the appropriate version for your OS and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at Install Hugo
+Step 2. Build the Docs # Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:</description></item><item><title>(Hu)go Template Primer</title><link>https://loopsteam.github.io/posts/goisforlovers/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://loopsteam.github.io/posts/goisforlovers/</guid><description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
+This document is a brief primer on using Go templates.</description></item></channel></rss>
