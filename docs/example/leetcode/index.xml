@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>编程入门 on Conner's Blog</title><link>https://loopsteam.github.io/docs/example/leetcode/</link><description>Recent content in 编程入门 on Conner's Blog</description><generator>Hugo</generator><language>zh-CN</language><atom:link href="https://loopsteam.github.io/docs/example/leetcode/index.xml" rel="self" type="application/rss+xml"/><item><title>两数相加</title><link>https://loopsteam.github.io/docs/example/leetcode/add/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://loopsteam.github.io/docs/example/leetcode/add/</guid><description> 两数相加 # 给你两个整数 num1 和 num2，返回这两个整数的和。 # 示例 1： # 输入：num1 = 12, num2 = 5 输出：17 解释：num1 是 12，num2 是 5 ，它们的和是 12 + 5 = 17 ，因此返回 17 。 示例 2： # 输入：num1 = -10, num2 = 4 输出：-6 解释：num1 + num2 = -6 ，因此返回 -6 。 提示： # -100 &amp;lt;= num1, num2 &amp;lt;= 100
-class Solution(object): def sum(self, num1, num2): return num1 + num2</description></item></channel></rss>
+class Solution(object): def sum(self, num1, num2): return num1 + num2</description></item><item><title>温度转换</title><link>https://loopsteam.github.io/docs/example/leetcode/%E6%B8%A9%E5%BA%A6%E8%BD%AC%E6%8D%A2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://loopsteam.github.io/docs/example/leetcode/%E6%B8%A9%E5%BA%A6%E8%BD%AC%E6%8D%A2/</guid><description>温度转换 # 问题描述 # 给定一个四舍五入到两位小数的非负浮点数 celsius（摄氏度），将其转换为开氏度（Kelvin）和华氏度（Fahrenheit），并以数组 ans = [kelvin, fahrenheit] 的形式返回结果。与实际答案误差不超过 10^-5 的答案视为正确。
+转换公式：
+开氏度 = 摄氏度 + 273.15 华氏度 = 摄氏度 × 1.80 + 32.00 示例 # 示例 1 # 输入：celsius = 36.50
+输出：[309.65000, 97.70000]
+解释：
+开氏度：36.50 + 273.15 = 309.65 华氏度：36.50 × 1.80 + 32.00 = 97.70 示例 2 # 输入：celsius = 122.11
+输出：[395.26000, 251.79800]
+解释：
+开氏度：122.11 + 273.15 = 395.26 华氏度：122.11 × 1.80 + 32.00 = 251.</description></item></channel></rss>
